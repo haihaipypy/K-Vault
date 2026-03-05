@@ -20,27 +20,27 @@
 
 ## Screenshots
 
-<table>
+<table width="100%" cellpadding="8">
   <tr>
-    <td width="33.33%">
-      <img src="demo/登录页面.webp" alt="Login Page" style="width:100%">
+    <td width="33.33%" align="center" valign="top">
+      <img src="demo/登录页面.webp" alt="Login Page" style="width:92%; max-width:260px; height:auto; border-radius:10px;">
     </td>
-    <td width="33.33%">
-      <img src="demo/首页上传页面.webp" alt="Home Upload Page" style="width:100%">
+    <td width="33.33%" align="center" valign="top">
+      <img src="demo/首页上传页面.webp" alt="Home Upload Page" style="width:92%; max-width:260px; height:auto; border-radius:10px;">
     </td>
-    <td width="33.33%">
-      <img src="demo/后台管理页面.webp" alt="Admin Page" style="width:100%">
+    <td width="33.33%" align="center" valign="top">
+      <img src="demo/后台管理页面.webp" alt="Admin Page" style="width:92%; max-width:260px; height:auto; border-radius:10px;">
     </td>
   </tr>
   <tr>
     <td colspan="3" align="center">
-      <table width="66.66%">
+      <table width="72%" cellpadding="8">
         <tr>
-          <td width="50%">
-            <img src="demo/图片浏览页面.webp" alt="Image Browse Page" style="width:100%">
+          <td width="50%" align="center" valign="top">
+            <img src="demo/图片浏览页面.webp" alt="Image Browse Page" style="width:92%; max-width:260px; height:auto; border-radius:10px;">
           </td>
-          <td width="50%">
-            <img src="demo/WebDAV页面.webp" alt="WebDAV Page" style="width:100%">
+          <td width="50%" align="center" valign="top">
+            <img src="demo/WebDAV页面.webp" alt="WebDAV Page" style="width:92%; max-width:260px; height:auto; border-radius:10px;">
           </td>
         </tr>
       </table>
